@@ -6,7 +6,7 @@ This project, built for our 4th Year B.Tech Computer Engineering coursework, use
 
 ## 📸 Demo
 
-**(Note: Add a screenshot here!)**
+<img width="1856" height="1500" alt="image" src="https://github.com/user-attachments/assets/8c9f6aa3-6522-4f24-ba72-e07f0423330a" />
 
 *After you run the `streamlit_app.py`, take a screenshot of the app working and place it here. You can add it to GitHub and then edit this file to link to it.*
 
